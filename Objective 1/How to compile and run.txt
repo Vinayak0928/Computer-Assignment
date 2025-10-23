@@ -1,0 +1,5 @@
+To Compile & run:
+
+STEP 1: Type: "gcc main.c mylib.c -o prog" on the terminal & press enter
+STEP 2: Again type "./prog" & press enter
+
